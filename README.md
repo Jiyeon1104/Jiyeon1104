@@ -1,13 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&coustomColorList=20&height=400&text=Welcometo%20Hi%20j.y's%20World!&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&coustomColorList=18&height=400&text=Welcometo%20Hi%20j.y's%20World!&fontSize=60)
 <div align = "center">
 🎇Hi_j.y🎇
 <hr>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiyeon1104&count_bg=%23B07626&title_bg=%23ED8080&icon=badoo.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-💌E-mail💌
-2018110325@dgu.ac.kr
-
-📕Dongguk Univ. Chinese Culture & Literature 18📕
+💌E-mail💌<br>
+2018110325@dgu.ac.kr<br>
+📕Dongguk Univ. Chinese Culture & Literature 18📕<br>
 📗KoreaIT Student📗
 <hr>
 🎈Front-end Stacks🎈
