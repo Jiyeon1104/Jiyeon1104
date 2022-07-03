@@ -34,6 +34,6 @@
 ![GIT](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![SLACK](https://img.shields.io/badge/slack-4A154B.svg?sltyle=flat&logo=slack&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyeon1104)](https://github.com/Jiyeon1104/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyeon1104&theme=radical)](https://github.com/Jiyeon1104/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyeon1104&show_icons=true&theme=radical)
 </div>
