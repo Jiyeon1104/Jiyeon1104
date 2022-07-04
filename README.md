@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiyeon1104&count_bg=%23FDC8F8&title_bg=%23F54D4D96&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-안녕하세요! 백엔드 개발자를 꿈꾸는 김지연입니다💜<br>
+안녕하세요! 백엔드 개발자를 준비하는 김지연입니다💜<br>
 "You just need to believe in yourself."
 
 <h2>🎈About Me🎈</h2>
