@@ -13,13 +13,6 @@
 📜Certificated Korea IT program in Seoul<br>
 💌Email : 2018110325@dgu.ac.kr<br>
 
-<h2>🎈Front-end🎈</h2>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-1572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![JQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=flat&logo=jquery&logoColor=white)
-
 <h2>🎈Back-end🎈</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
@@ -27,6 +20,13 @@
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat&logo=spring&logoColor=white) <br>
 ![ORACLE](https://img.shields.io/badge/oracle-F80000.svg?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+
+<h2>🎈Front-end🎈</h2>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![JQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=flat&logo=jquery&logoColor=white)
 
 <h2>🎈Tools🎈</h2>
 
