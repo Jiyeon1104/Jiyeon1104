@@ -34,6 +34,13 @@
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![SLACK](https://img.shields.io/badge/slack-4A154B.svg?sltyle=flat&logo=slack&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyeon1104&theme=radical)](https://github.com/Jiyeon1104/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyeon1104&show_icons=true&theme=radical)
